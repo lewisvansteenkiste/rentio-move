@@ -1,26 +1,4 @@
-# Rentio Move
-
-A Next.js application for managing real estate energy contract transfers.
-
-## Features
-
-- Dashboard overview of active cases
-- Case management with meter data
-- Automatic Git synchronization with GitHub
-
-## Development
-
-This project uses:
-- Next.js 15
-- TypeScript
-- Tailwind CSS
-- ESLint
-
-## Git Automation
-
-Changes are automatically synced with GitHub using Git hooks:
-- All changes are automatically staged
-- Commits are automatically pushed to GitHub
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
